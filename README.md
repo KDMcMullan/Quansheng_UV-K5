@@ -1,13 +1,13 @@
 # [NEW UVMOD in Portuguese](https://uvmod.meshtastic.pt/)
 
-# QuanSheng_UV-K5 Firmwares for UV-K5, UV-K5(8), UV-K6 & UV-R5 Plus
+# QuanSheng_UV-K5 Firmwares for UV-K5, UV-K5(8), UV-K6 & UV-5R Plus
 
 [QuanSheng UV-K5 Firmwares](https://github.com/spm81/Quansheng_UV-K5/tree/main/Firmware/UV-K5)<br>
-[QuanSheng UV-R5 Plus Firmwares](https://github.com/spm81/Quansheng_UV-K5/tree/main/Firmware/UV-5R%20Plus)<br>
+[QuanSheng UV-5R Plus Firmwares](https://github.com/spm81/Quansheng_UV-K5/tree/main/Firmware/UV-5R%20Plus)<br>
 [QuanSheng UV-K6 Firmwares](https://github.com/spm81/Quansheng_UV-K5/tree/main/Firmware/UV-K6)<br><br>
 [UNIVERSAL FIRMWARE ( All Radios - UV-K5, UV-K5(8), UV-K6, UV-5R Plus, etc...)](https://github.com/spm81/Quansheng_UV-K5/tree/main/Firmware/UNIVERSAL%20FIRMWARE%20(%20All%20Radios%20-%20UV-K5%2C%20UV-K5(8)%2C%20UV-K6%2C%20UV-5R%20Plus%2C%20etc...))<br>
 
-# You have a QuanSheng UV-K6 or UV-R5 Plus and you get this error ???
+# You have a QuanSheng UV-K6 or UV-5R Plus and you get this error ???
 ![Screenshot](https://raw.githubusercontent.com/spm81/Quansheng_UV-K5/main/photos/fwerror.jpg)
 
 You are in the right place !!! :) <br>
